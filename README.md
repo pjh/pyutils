@@ -1,4 +1,5 @@
 pyutils
 =======
 
-Personal python utilities and helpers
+Python utilities and helpers.
+
