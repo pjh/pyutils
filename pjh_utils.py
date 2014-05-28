@@ -1,11 +1,9 @@
-# (c) 2012-2013, University of Washington, Department of Computer
-# Science & Engineering, Peter Hornyack.
-
-# Virtual memory characterization scripts
-# Written in 2012 by Peter Hornyack, pjh@cs.washington.edu
+# Python utility and helper methods.
+# Developed 2012-2014 by Peter Hornyack, pjh@cs.washington.edu
+# Copyright (c) 2012-2014 Peter Hornyack and University of Washington
 
 from bisect import *
-from vm_regex import *
+#from vm_regex import *
 import io
 import os
 import re
